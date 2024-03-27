@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(21, 66, 74);
+    color:aliceblue;
+    text-indent: 12px;
+    font-size: 20px;
+    display: block;
+    margin:0 100px 0 100px;
+}
+a{
+    color: aliceblue;
+    font-size: 16px;
+    padding:10px;
+    background-color:rgb(143, 75, 180);
+    display: inline-block;
+    border-radius: 25px; 
+    text-decoration: none;
+    text-indent: 0;
+}
+.a{
+    color:rgb(198, 212, 212);
+    text-align: center;
+}
+h1{
+    margin:0 auto 22px auto;
+    text-align: center;
+    color: rgb(143, 75, 180);
+    font-weight: 700;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   }
+img{
+    width: 40%;
+    }
+.container{
+    display: block;
+    margin:5px auto 0 auto;
+    text-align: center;
+}
